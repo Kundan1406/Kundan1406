@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kundan Raj
-- 👀 I’m a Computer Science Student
+- 👀 I’m a Computer Science Engineering Student
 - 🌱 I’m currently learning Asp.net core,Node.js
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me

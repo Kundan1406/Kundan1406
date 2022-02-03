@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan Raj.
 - 👀 I’m a Computer Science Engineering Student
-- 🌱 I’m currently learning jquery,Node.js
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on new project
 
 <!---

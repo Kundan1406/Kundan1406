@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan Raj
-- 👀 I’m a Computer Science Engineering Student.
-- 🌱 I’m currently learning reactjs
+- 👀 I’m engineering intern at Calsoft.
+- 🌱 I’m currently learning Networking.
 - 💞️ I’m looking to collaborate on new project.
 
 <!---
